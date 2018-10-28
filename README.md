@@ -6,7 +6,8 @@ Convert unity docs to pdf.
 
 You can just download the latest generated docs from this repository:
 
-[Unity Manual.pdf]()
+- [Unity Manual.pdf](https://github.com/thlorenz/unity-pdf-docs/raw/master/pdf/UnityManual.pdf)
+- [Unity Manual.Scripts.pdf](https://github.com/thlorenz/unity-pdf-docs/raw/master/pdf/Unity.Manual.Scripts.pdf)
 
 ## Installation
 
