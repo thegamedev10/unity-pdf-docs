@@ -1,0 +1,42 @@
+{
+  "name": "unity-pdf-docs",
+  "version": "0.0.0",
+  "description": "Convert unity docs to pdf.",
+  "main": "unity-pdf-docs.js",
+  "bin": {
+    "unity-pdf-docs": "./unity-pdf-docs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/unity-pdf-docs.git"
+  },
+  "homepage": "https://github.com/thlorenz/unity-pdf-docs",
+  "dependencies": {
+    "chrome-launcher": "~0.10.5",
+    "html-pdf-chrome": "~0.5.0",
+    "mkdirp": "~0.5.1",
+    "rimraf": "~2.6.2"
+  },
+  "devDependencies": {
+    "pm2": "~3.2.2",
+    "tape": "~4.8.0"
+  },
+  "keywords": [
+    "unity",
+    "pdf",
+    "docs",
+    "unity3d"
+  ],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/thlorenz/unity-pdf-docs/blob/master/LICENSE"
+  },
+  "engine": {
+    "node": ">=8"
+  }
+}
