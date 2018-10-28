@@ -1,6 +1,6 @@
 {
   "name": "unity-pdf-docs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert unity docs to pdf.",
   "main": "unity-pdf-docs.js",
   "bin": {
